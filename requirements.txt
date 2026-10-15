@@ -1,0 +1,15 @@
+pandas
+openpyxl
+xlsxwriter
+jinja2
+pyodbc
+sqlalchemy
+python-dotenv
+google-api-python-client
+requests
+pillow
+beautifulsoup4
+tqdm
+python-pptx
+PyQt5
+PyMuPDF
